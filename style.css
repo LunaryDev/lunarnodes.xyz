@@ -1,5 +1,5 @@
 body {
-    background: rgb(89, 39, 207);
+    background: powderblue;
     font-family: system-ui;
   }
   
@@ -40,14 +40,14 @@ body {
   
   
   .header a:hover {
-    background-color: black;
-    color: black;
+    background-color: dodgerblue;
+    color: white;
   }
   
   
   .header a.active {
-    background-color: black;
-    color: black;
+    background-color: dodgerblue;
+    color: white;
   }
   
   .header-right {
